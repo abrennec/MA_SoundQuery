@@ -1,5 +1,7 @@
 ---
 title: "Query for Sound"
+Author: "Eric Lehmann"
+type: "thesis"
 output: pdf_document
 bibliography: bibliography.bib
 
@@ -7,11 +9,11 @@ bibliography: bibliography.bib
 
 Master Thesis: Query for Sound 
 
-Author: Eric Lehmann
 
-<!--total pages: 60-90-->
 
-<!--TOC \{93\}-->>
+total page goal: 60-90
+
+Page Sum {93\}
 
 
 [TOC]
